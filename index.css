@@ -1,0 +1,39 @@
+#div {
+  display: flex;
+  border: 4px double skyblue;
+  width: 100%;
+  font-size: 150px;
+  text-align: center;
+  padding-left: 40%;
+  background-color: black;
+  color: chartreuse;
+}
+
+div {
+  display: block;
+  width: 50%;
+  height: 200px;
+  text-align: center;
+  padding-left: 25%;
+}
+button {
+  width: 35%;
+  height: 50px;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  background-color: black;
+  color: gold;
+  border: 2px double gold;
+}
+
+body {
+  background-color: black;
+}
+
+#hed {
+  color: chartreuse;
+  text-align: center;
+  font-size: 50px;
+}
